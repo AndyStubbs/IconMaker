@@ -1,0 +1,23 @@
+{
+  "name": "iconmaker",
+  "version": "1.0.0",
+  "description": "Convert images into icons",
+  "main": "icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyStubbs/IconMaker.git"
+  },
+  "author": "Andy Stubbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndyStubbs/IconMaker/issues"
+  },
+  "homepage": "https://github.com/AndyStubbs/IconMaker#readme",
+  "dependencies": {
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.32.6"
+  }
+}
